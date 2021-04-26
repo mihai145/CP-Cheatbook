@@ -39,10 +39,10 @@
 * Gaussian Elimination
 
 ## Geometry
-Convex Hull
-Closest Pair of Points
+* Convex Hull
+* Closest Pair of Points
 
 ## Others
-Slope Trick
-Radix Sort
-Input/Output parsing
+* Slope Trick
+* Radix Sort
+* Input/Output parsing
