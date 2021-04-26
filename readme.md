@@ -1,19 +1,19 @@
 # CP Cheatbook
 
 ## Data Structures
-* Fenwick Tree
+* ~~Fenwick Tree~~
 * Segment Tree with Lazy Propagation (Range Set, Range Add)
 * Persistent Segment Tree
 * Segment Tree beats
-* RMQ
+* ~~RMQ~~
 * Fibonacci Heaps
 * Treaps
 
 ## Graphs
-* Eulerian Cycle
-* Hamiltonian Cycle
+* ~~Eulerian Cycle~~
+* ~~Hamiltonian Cycle~~
 * Biconnected Components
-* 2-SAT
+* ~~2-SAT~~
 * Bipartite Matching (Hopcroft-Karp)
 * Max Flow
 * Max Flow Min Cost
@@ -22,7 +22,7 @@
 * Dynamic Connectivity Offline
 
 ## DP
-* Longest Increasing Subsequence
+* ~~Longest Increasing Subsequence~~
 * Divide-And-Conquer Optimization
 * Convex Hull Trick
 * Lichao Tree
@@ -35,7 +35,7 @@
 * Suffix Array with LCP
 
 ## Math
-* Extended GCD
+* ~~Extended GCD~~
 * Gaussian Elimination
 
 ## Geometry
