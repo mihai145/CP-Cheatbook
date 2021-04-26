@@ -12,9 +12,9 @@
 ## Graphs
 * ~~Eulerian Cycle~~
 * ~~Hamiltonian Cycle~~
-* Biconnected Components
+* ~~Biconnected Components~~
 * ~~2-SAT~~
-* Bipartite Matching (Hopcroft-Karp)
+* ~~Bipartite Matching (Hopcroft-Karp)~~
 * Max Flow
 * Max Flow Min Cost
 * Centroid Decomposition
