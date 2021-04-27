@@ -18,6 +18,7 @@
 * Max Flow
 * Max Flow Min Cost
 * Centroid Decomposition
+* Heavy Light Decomposition
 * First non-bipartite edge
 * Dynamic Connectivity Offline
 
@@ -28,10 +29,10 @@
 * Lichao Tree
 
 ## Strings
-* Manacher
-* KMP
-* Trie
-* Aho-Corasick
+* ~~Manacher~~
+* ~~KMP~~
+* ~~Trie~~
+* ~~Aho-Corasick~~
 * Suffix Array with LCP
 
 ## Math
