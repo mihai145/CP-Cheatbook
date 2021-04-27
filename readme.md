@@ -44,6 +44,6 @@
 * ~~Closest Pair of Points~~
 
 ## Others
+* ~~Radix Sort~~
 * Slope Trick
-* Radix Sort
 * Input/Output parsing
