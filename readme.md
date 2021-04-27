@@ -37,11 +37,11 @@
 
 ## Math
 * ~~Extended GCD~~
-* Gaussian Elimination
+* ~~Gaussian Elimination~~
 
 ## Geometry
-* Convex Hull
-* Closest Pair of Points
+* ~~Convex Hull~~
+* ~~Closest Pair of Points~~
 
 ## Others
 * Slope Trick
