@@ -15,8 +15,8 @@
 * ~~Biconnected Components~~
 * ~~2-SAT~~
 * ~~Bipartite Matching (Hopcroft-Karp)~~
-* Max Flow
-* Max Flow Min Cost
+* ~~Max Flow~~
+* ~~Max Flow Min Cost~~
 * Centroid Decomposition
 * Heavy Light Decomposition
 * First non-bipartite edge
