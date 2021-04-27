@@ -19,8 +19,8 @@
 * ~~Max Flow Min Cost~~
 * ~~Centroid Decomposition~~
 * ~~Heavy Light Decomposition~~
-* First non-bipartite edge
-* Dynamic Connectivity Offline
+* ~~First non-bipartite edge~~
+* ~~Dynamic Connectivity Offline~~
 
 ## DP
 * ~~Longest Increasing Subsequence~~
