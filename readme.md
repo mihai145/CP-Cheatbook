@@ -17,8 +17,8 @@
 * ~~Bipartite Matching (Hopcroft-Karp)~~
 * ~~Max Flow~~
 * ~~Max Flow Min Cost~~
-* Centroid Decomposition
-* Heavy Light Decomposition
+* ~~Centroid Decomposition~~
+* ~~Heavy Light Decomposition~~
 * First non-bipartite edge
 * Dynamic Connectivity Offline
 
@@ -45,5 +45,6 @@
 
 ## Others
 * ~~Radix Sort~~
-* Slope Trick
 * Input/Output parsing
+* Number of inversions in a permutation
+* Slope Trick
