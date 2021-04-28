@@ -24,8 +24,8 @@
 
 ## DP
 * ~~Longest Increasing Subsequence~~
-* Divide-And-Conquer Optimization
-* Convex Hull Trick
+* ~~Divide-And-Conquer Optimization~~
+* ~~Convex Hull Trick~~
 * Lichao Tree
 
 ## Strings
