@@ -2,7 +2,7 @@
 
 ## Data Structures
 * ~~Fenwick Tree~~
-* Segment Tree with Lazy Propagation (Range Set, Range Add)
+* ~~Segment Tree with Lazy Propagation (Range Set, Range Add)~~
 * Persistent Segment Tree
 * Segment Tree beats
 * ~~RMQ~~
