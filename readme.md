@@ -33,7 +33,7 @@
 * ~~KMP~~
 * ~~Trie~~
 * ~~Aho-Corasick~~
-* Suffix Array with LCP
+* ~~Suffix Array with LCP~~
 
 ## Math
 * ~~Extended GCD~~
