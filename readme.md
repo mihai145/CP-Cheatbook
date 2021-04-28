@@ -45,6 +45,5 @@
 
 ## Others
 * ~~Radix Sort~~
-* Input/Output parsing
-* Number of inversions in a permutation
+* ~~Number of inversions in a permutation~~
 * Slope Trick
