@@ -7,7 +7,7 @@
 * Segment Tree beats
 * ~~RMQ~~
 * Fibonacci Heaps
-* Treaps
+* Treaps (~~ordered~~ and implicit)
 
 ## Graphs
 * ~~Eulerian Cycle~~
