@@ -6,7 +6,7 @@
 * Persistent Segment Tree
 * Segment Tree beats
 * ~~RMQ~~
-* Fibonacci Heaps
+* ~~Mergeable Heaps~~
 * ~~Treaps (ordered and implicit)~~
 
 ## Graphs
