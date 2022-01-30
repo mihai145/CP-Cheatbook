@@ -31,7 +31,7 @@
 - ~~Longest Increasing Subsequence~~
 - ~~Divide-And-Conquer Optimization~~
 - ~~Convex Hull Trick~~
-- Lichao Tree
+- ~~Lichao Tree~~
 
 ## Strings
 
