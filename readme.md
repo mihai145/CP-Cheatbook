@@ -45,6 +45,7 @@
 
 - ~~Extended GCD~~
 - ~~Gaussian Elimination~~
+- ~~Matrix Exponentiation~~
 
 ## Geometry
 
