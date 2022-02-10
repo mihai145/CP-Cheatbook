@@ -46,6 +46,7 @@
 - ~~Extended GCD~~
 - ~~Gaussian Elimination~~
 - ~~Matrix Exponentiation~~
+- ~~FFT~~
 
 ## Geometry
 
