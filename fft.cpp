@@ -8,6 +8,8 @@
  * O(NlogNlogK) polynomial exponentiation
  */
 
+#pragma GCC optimize("O3,unroll-loops")
+#pragma GCC target("avx2,bmi,bmi2,lzcnt,popcnt")
 #include <iostream>
 #include <algorithm>
 #include <complex>
@@ -106,9 +108,7 @@ void bin_pow(vector<int> &res, vector<int> &p, int exp) {
 
     vector<int> aux;
     bin_pow(aux, p, exp >> 1);
-    aux = multiplier.multiply(aux, aux);
-
-    res = aux;
+    res = multiplier.multiply(aux, aux);
     if(exp & 1) {
         res = multiplier.multiply(res, p);
     }

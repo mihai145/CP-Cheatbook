@@ -47,6 +47,7 @@
 - ~~Gaussian Elimination~~
 - ~~Matrix Exponentiation~~
 - ~~FFT~~
+- ~~NTT~~
 
 ## Geometry
 
