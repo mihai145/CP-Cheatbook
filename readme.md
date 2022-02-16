@@ -48,6 +48,7 @@
 - ~~Matrix Exponentiation~~
 - ~~FFT~~
 - ~~NTT~~
+- ~~Mobius~~
 
 ## Geometry
 
