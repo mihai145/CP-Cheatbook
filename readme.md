@@ -29,6 +29,7 @@
 ## DP
 
 - ~~Longest Increasing Subsequence~~
+- ~~SOS DP~~
 - ~~Divide-And-Conquer Optimization~~
 - ~~Convex Hull Trick~~
 - ~~Lichao Tree~~
