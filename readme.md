@@ -9,6 +9,7 @@
 - ~~RMQ~~
 - ~~Mergeable Heaps~~
 - ~~Treaps (ordered and implicit)~~
+- ~~Red-Black Tree~~
 
 ## Graphs
 
